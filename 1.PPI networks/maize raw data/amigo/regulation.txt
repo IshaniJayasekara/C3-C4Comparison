@@ -1,0 +1,4 @@
+UniProtKB:B4FUI4	PSII 6.1 kDa protein		GO:0042549	photosystem II stabilization		GO_Central	NCBITaxon:4577	IBA	PANTHER:PTN002159343|TAIR:locus:2064407	PANTHER:PTHR34552	protein		GO_REF:0000033	20170228	P
+UniProtKB:B6U3H3	CP12-1		GO:0080153	negative regulation of reductive pentose-phosphate cycle		GO_Central	NCBITaxon:4577	IBA	PANTHER:PTN002142411|TAIR:locus:2065220|TAIR:locus:2011676|TAIR:locus:2096009	PANTHER:PTHR33921	protein		GO_REF:0000033	20180622	P
+UniProtKB:A0A1D6K0A0	Calvin cycle protein CP12-2 chloroplastic		GO:0080153	negative regulation of reductive pentose-phosphate cycle		GO_Central	NCBITaxon:4577	IBA	PANTHER:PTN002142411|TAIR:locus:2065220|TAIR:locus:2011676|TAIR:locus:2096009	PANTHER:PTHR33921	protein		GO_REF:0000033	20180622	P
+UniProtKB:A0A1D6FSY7	PSII 6.1 kDa protein		GO:0042549	photosystem II stabilization		GO_Central	NCBITaxon:4577	IBA	PANTHER:PTN002159343|TAIR:locus:2064407	PANTHER:PTHR34552	protein		GO_REF:0000033	20170228	P

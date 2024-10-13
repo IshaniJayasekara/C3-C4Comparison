@@ -1,0 +1,10 @@
+UniProtKB:Q10MJ5	CP12, putative, expressed		GO:0080153	negative regulation of reductive pentose-phosphate cycle		GO_Central	NCBITaxon:39947	IBA	PANTHER:PTN002142411|TAIR:locus:2065220|TAIR:locus:2011676|TAIR:locus:2096009	PANTHER:PTHR33921	protein		GO_REF:0000033	20180622	P
+UniProtKB:Q9FP25	Os01g0303000 protein		GO:0080153	negative regulation of reductive pentose-phosphate cycle		GO_Central	NCBITaxon:39947	IBA	PANTHER:PTN002142411|TAIR:locus:2065220|TAIR:locus:2011676|TAIR:locus:2096009	PANTHER:PTHR33921	protein		GO_REF:0000033	20180622	P
+UniProtKB:Q5ZBY9	Photosystem II reaction center W protein, chloroplastic		GO:0042549	photosystem II stabilization		GO_Central	NCBITaxon:39947	IBA	PANTHER:PTN002159343|TAIR:locus:2064407	PANTHER:PTHR34552	protein		GO_REF:0000033	20170228	P
+UniProtKB:Q0J7T6	RNA polymerase sigma factor sigA		GO:0080005	photosystem stoichiometry adjustment		UniProt	NCBITaxon:39947	IMP		PANTHER:PTHR30603	protein		PMID:17651366	20181011	P
+UniProtKB:Q8H3I4	Peroxisomal (S)-2-hydroxy-acid oxidase GLO4		GO:0010109	regulation of photosynthesis		UniProt	NCBITaxon:39947	ISS	UniProtKB:Q10CE4	PANTHER:PTHR10578	protein		GO_REF:0000024	20101111	P
+UniProtKB:Q10CE4	Glycolate oxidase 1		GO:0010109	regulation of photosynthesis		UniProt	NCBITaxon:39947	IMP		PANTHER:PTHR10578	protein		PMID:19264754	20101111	P
+UniProtKB:Q7FAS1	Glycolate oxidase 3		GO:0010109	regulation of photosynthesis		UniProt	NCBITaxon:39947	ISS	UniProtKB:Q10CE4	PANTHER:PTHR10578	protein		GO_REF:0000024	20101111	P
+UniProtKB:Q7XPR4	Glycolate oxidase 2		GO:0010109	regulation of photosynthesis		UniProt	NCBITaxon:39947	ISS	UniProtKB:Q10CE4	PANTHER:PTHR10578	protein		GO_REF:0000024	20101111	P
+UniProtKB:Q6YT73	Glycolate oxidase 5		GO:0010109	regulation of photosynthesis		UniProt	NCBITaxon:39947	ISS	UniProtKB:Q10CE4	PANTHER:PTHR10578	protein		GO_REF:0000024	20101111	P
+UniProtKB:Q6L4X1	PSII 6.1 kDa protein		GO:0042549	photosystem II stabilization		GO_Central	NCBITaxon:39947	IBA	PANTHER:PTN002159343|TAIR:locus:2064407	PANTHER:PTHR34552	protein		GO_REF:0000033	20170228	P
